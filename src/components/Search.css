@@ -1,0 +1,17 @@
+.search_div {
+    margin: auto;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.search-box {
+    min-width: 500px;
+    padding: 10px;
+}
+
+.search-btn {
+    margin-left: 10px;
+    min-width: 150px;
+    border-radius: 50%;
+}

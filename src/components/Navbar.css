@@ -1,0 +1,17 @@
+.logo {
+    width: 80px;
+    border-radius: 20%;
+}
+
+.navbar {
+    border: 1px solid black;
+    display: flex;
+}
+
+.navitem {
+    margin: auto;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-right: 10px;
+}
