@@ -5,15 +5,42 @@ import { Sidebar } from "./components/Sidebar.jsx";
 
 function App() {
     return ( <
-        div className = "App" >
+        >
         <
         Navbar / >
         <
+        div className = "App" >
+        <
+        div className = "sidebar_move" >
+        <
         Sidebar / >
         <
-        Card className = "card" / >
+        /div>{" "} <
+        div className = "card_move" >
         <
-        /div>
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        Card / >
+        <
+        /div> <
+        /div> <
+        />
     );
 }
 
